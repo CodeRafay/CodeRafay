@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1F9FF7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Building+intelligent+systems+🤖" alt="Role" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Socials -->
 <!-- Social icons section -->
@@ -122,3 +122,4 @@ rafay = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F9FF7&height=80&section=footer"/>
 </div>
+
