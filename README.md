@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1F9FF7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Building+intelligent+systems+🤖" alt="Role" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1F9FF7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Building+intelligent+systems" alt="Role" />
 </a>
 
 <br/>
@@ -47,7 +47,7 @@ rafay = {
     "stack":      ["Python", "PyTorch", "FastAPI", "React", "Next.js"],
     "databases":  ["PostgreSQL", "MongoDB", "Firebase"],
     "cloud":      ["AWS", "Docker"],
-    "currently":  "Building production-grade ML systems 🚀"
+    "currently":  "Building production-grade ML systems"
 }
 ```
 
